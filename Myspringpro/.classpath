@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-aop-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-aop-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-aop-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-aspects-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-aspects-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-aspects-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-beans-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-beans-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-beans-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-context-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-context-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-context-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-context-support-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-context-support-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-context-support-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-core-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-core-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-core-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-expression-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-expression-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-expression-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-instrument-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-instrument-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-instrument-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-instrument-tomcat-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-instrument-tomcat-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-instrument-tomcat-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-jdbc-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-jdbc-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-jdbc-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-jms-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-jms-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-jms-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-messaging-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-messaging-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-messaging-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-orm-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-orm-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-orm-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-oxm-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-oxm-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-oxm-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-test-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-test-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-test-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-tx-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-tx-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-tx-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-web-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-web-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-web-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-webmvc-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-webmvc-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-webmvc-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-webmvc-portlet-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-webmvc-portlet-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-webmvc-portlet-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-websocket-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-websocket-4.3.8.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Gauravs_java_2019/jar_files/Springjar/spring-websocket-4.3.8.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/priya/Study material/Jarfile/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
